@@ -1,6 +1,6 @@
 # Portfolio | Shaan Savariryan
 
-[shanexavier.com] (shanexavier.com)
+Visit [shanexavier.com] to view the full portfolio
 
 A showcasing of my background, interests, projects and designs.
 
